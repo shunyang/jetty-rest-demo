@@ -2,7 +2,9 @@
 该demo为采用内嵌jetty+spring的方式搭建的web项目，主要可用于rest服务开发
 
 ## 项目使用过程
-git clone 
+* 下载
+git clone  git@github.com:shunyang/jetty-rest-demo.git
+cd jetty-rest-demo
 * 构建：
 mvn clean install -Pdev -DskipTests
 * 运行：
